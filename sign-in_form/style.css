@@ -5,8 +5,8 @@
 }
 
 body {
-  background-color: rgb(35, 118, 124);
-  color: #fff;
+  background-color: rgb(124, 68, 35);
+  color: #ea0000;
   font-family: 'Muli', sans-serif;
   display: flex;
   flex-direction: column;
@@ -30,7 +30,7 @@ body {
 
 .container a {
   text-decoration: none;
-  color: lightblue;
+  color: rgb(15, 15, 15);
 }
 
 .btn {
