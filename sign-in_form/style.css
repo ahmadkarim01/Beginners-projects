@@ -17,7 +17,7 @@ body {
   margin: 0;
 }
 
-.container {
+/* .container {
   background-color: rgba(0, 0, 0, 0.4);
   padding: 20px 40px;
   border-radius: 5px;
@@ -31,7 +31,7 @@ body {
 .container a {
   text-decoration: none;
   color: rgb(15, 15, 15);
-}
+} */
 
 .btn {
   cursor: pointer;
