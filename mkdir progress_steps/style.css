@@ -84,7 +84,7 @@ body{
     font-size: 18px;
 }
 
-/* .btn:active {
+.btn:active {
     transform: scale(0.70) ;
     /* transition: 0.1s ease; */
 }
@@ -96,4 +96,4 @@ body{
 .btn:disabled {
     background-color: grey;
     cursor: not-allowed;
-} */
+}
